@@ -1,7 +1,5 @@
 ## Convolution Neural Network
 
-##### *Haiyang Yu*
-
 ### This directory contains all the files about CNN.
 
 #### You may run these Python files in order as below:
